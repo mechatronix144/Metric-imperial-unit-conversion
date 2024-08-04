@@ -1,0 +1,145 @@
+
+body{
+    background: #1C1C1C;
+    width: 1345px;
+    height: 979px;
+    
+}
+
+
+.container1{
+    margin: auto;
+    margin-top: 50px;
+    width: 550px;
+    height: 750px;
+    top: 126px;
+    margin-left: 600px;
+    background: #1F2937;
+
+}
+.bigbox1{
+    background: #6943FF;
+    width: 550px;
+    height: 285px;
+
+
+}
+#heading{
+padding-top: 30px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 800;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+#number{
+font-family: Inter;
+font-size: 58px;
+font-weight: 800;
+text-align: center;
+color: #FFFFFF;
+border: 2px solid #B295FF;
+width: 117px;
+height: 83px;
+margin-top:30px;
+margin-left:217px;
+border-radius: 5px;
+background-color: #6943FF;
+}
+#btn{
+width: 117px;
+height: 42px;
+margin-top: 20px;
+margin-left: 217px;
+padding: 9px 27.5px 9px 27.5px;
+border-radius: 5px;
+box-shadow: 0px 1px 2px 0px #0000000D;
+cursor: pointer;
+
+}
+
+
+#box1{
+width: 500px;
+height: 108.57px;
+margin-top:40px;
+margin-left: 25px;
+border-radius: 4.68px;
+background: #273549;
+}
+
+#box2{
+width: 500px;
+height: 108.57px;
+margin-top:40px;
+margin-left: 25px;
+border-radius: 4.68px;
+background: #273549;
+}
+
+
+#box3{
+width: 500px;
+height: 108.57px;
+margin-top:40px;
+margin-left: 25px;
+border-radius: 4.68px;
+background: #273549;
+}
+
+#heading1{
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+color: #CCC1FF;
+padding-top: 30px;
+}
+#heading2{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    color: #CCC1FF;
+    padding-top: 30px;
+    }
+    #heading3{
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 20px;
+        text-align: center;
+        color: #CCC1FF;
+        padding-top: 30px;
+        }
+ #paragraph1{
+    color:#FFFFFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+
+        }
+        #paragraph2{
+            color:#FFFFFF;
+            font-family: Inter;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 20px;
+            text-align: center;
+        
+                }
+                #paragraph3{
+                    color:#FFFFFF;
+                    font-family: Inter;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 20px;
+                    text-align: center;
+                
+                        }
